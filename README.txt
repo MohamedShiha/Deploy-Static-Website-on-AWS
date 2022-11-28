@@ -10,4 +10,5 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 
-endpoint URL: https://d3cc7hgdlpusy3.cloudfront.net
+CloudFront Endpoint: https://d3cc7hgdlpusy3.cloudfront.net
+Endpoint URL: http://my-925729158-bucket.s3-website-us-east-1.amazonaws.com
